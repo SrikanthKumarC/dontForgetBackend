@@ -1,0 +1,16 @@
+GET http://13.232.173.92:3000/subscribers/wpsrikanth@gmail.com
+
+
+###
+
+
+POST http://localhost:3000/subscribers/
+Content-Type: application/json
+
+{
+    "nums" : "918019829435",
+    "isHit" : false,
+    "msg" : "hello brosdofoa",
+    "when": "30 September 2022 10:17 PM",
+    "email": "wpsrikanth@gmail.com"
+}
