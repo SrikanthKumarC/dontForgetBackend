@@ -1,9 +1,9 @@
-GET http://13.232.173.92:3000/subscribers/wpsrikanth@gmail.com
+GET https://dontforgetrender.onrender.com/subscribers/wpsrikanth@gmail.com
 
 
 ###
-
-
+GET http://localhost:3000/subscribers/wpsrikanth@gmail.com
+###
 POST http://localhost:3000/subscribers/
 Content-Type: application/json
 
